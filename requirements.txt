@@ -1,3 +1,4 @@
+pyodbc==x.x.x
 altair
 pandas
 streamlit
