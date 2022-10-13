@@ -1,4 +1,4 @@
-pyodbc==x.x.x
+pyodbc==22.2.2
 altair
 pandas
 streamlit
